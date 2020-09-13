@@ -1,2 +1,3 @@
 # master-GoHappyPathTest-Go-smoke-test-8e1bfd9-58
-the description
+
+![depshield](https://staging.depshield.sonatype.org/badges/depshield-staging/master-GoHappyPathTest-Go-smoke-test-8e1bfd9-58/depshield.svg)
